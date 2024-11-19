@@ -6,7 +6,7 @@
   "homepage": "https://github.com/Xevion/bot-quality-speed",
   "description": "Provides effects for Bot Speed via Quality",
   "factorio_version": "2.0",
-  "dependencies": ["base", "quality", "? space-age"],
+  "dependencies": ["base", "quality"],
   "quality_required": true,
   "space_travel_required": false,
   "spoiling_required": false,
