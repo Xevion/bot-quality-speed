@@ -1,0 +1,15 @@
+{
+  "name": "bot-quality-speed",
+  "version": "0.0.1",
+  "title": "Bot Quality Speed",
+  "author": "Xevion",
+  "homepage": "https://github.com/Xevion/bot-quality-speed",
+  "description": "Provides effects for Bot Speed via Quality",
+  "factorio_version": "2.0",
+  "dependencies": ["base", "quality", "? space-age"],
+  "quality_required": true,
+  "space_travel_required": false,
+  "spoiling_required": false,
+  "freezing_required": false,
+  "segmented_units_required": false
+}
